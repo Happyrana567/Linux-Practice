@@ -1,0 +1,34 @@
+========== AWS RESOURCE TRACKER ==========
+Thursday 10 July 2025 11:56:26 PM IST
+
+🪣 S3 Buckets:
+2025-07-09 16:01:54 happy-s3-practice-1-2025
+2025-07-09 16:01:56 happy-s3-practice-2-2025
+2025-07-09 16:01:59 happy-s3-practice-3-2025
+
+🖥️ EC2 Instances (Name + ID):
+----------------------------------------
+|           DescribeInstances          |
++----------------------+---------------+
+|          ID          |     Name      |
++----------------------+---------------+
+|  i-02dc0bb1b805477ef |  Happy-EC2-1  |
+|  i-01d008ec74d72bb58 |  Happy-EC2-2  |
+|  i-06161f8bb69538581 |  Happy-EC2-3  |
++----------------------+---------------+
+
+🧠 Lambda Functions (Name only):
+-----------------
+| ListFunctions |
++---------------+
+|  hello-world  |
++---------------+
+
+👤 IAM Users:
+------------
+| ListUsers|
++----------+
+|  Ranaji  |
++----------+
+
+✅ Done!

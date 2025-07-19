@@ -1,0 +1,18 @@
+2025-06-26 09:00:00 INFO Starting microservice: auth-service
+2025-06-26 09:00:02 INFO Loading configuration
+2025-06-26 09:00:03 ERROR Failed to load configuration from /etc/auth/config.yaml
+2025-06-26 09:00:04 WARN Using default config values
+2025-06-26 09:01:00 INFO Connecting to database
+2025-06-26 09:01:01 ERROR Database connection timed out after 5000ms
+2025-06-26 09:01:10 INFO Retrying database connection
+2025-06-26 09:01:12 INFO Connected to database
+2025-06-26 09:02:00 INFO Listening on port 8080
+2025-06-26 09:03:15 INFO Received request: /login
+2025-06-26 09:03:16 ERROR Invalid credentials for user: admin
+2025-06-26 09:05:00 INFO Received request: /logout
+2025-06-26 09:06:00 INFO Shutting down microservice
+2025-06-26 09:06:01 INFO Closing DB connection
+2025-06-26 09:06:02 WARN DB connection not closed gracefully
+2025-06-26 09:06:03 INFO Service shutdown complete
+EOF
+
