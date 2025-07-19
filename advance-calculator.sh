@@ -12,6 +12,8 @@ read num2
 echo -n "Enter operation (+, -, *, /): "
 read op
 
+echo "Testing minor update"
+
 # Validate division by zero
 if [[ "$op" == "/" && "$num2" == "0" ]]; then
   echo "Error: Division by zero ❌"
