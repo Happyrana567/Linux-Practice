@@ -23,4 +23,4 @@ result=$(echo "scale=2; $num1 $op $num2" | bc)
 
 echo "Result: $result ✅"
 
-#oh yeah
+
