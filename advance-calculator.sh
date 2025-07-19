@@ -12,7 +12,7 @@ read num2
 echo -n "Enter operation (+, -, *, /): "
 read op
 
-echo "Testing minor update"
+echo "Testing minor update 2.0"
 
 # Validate division by zero
 if [[ "$op" == "/" && "$num2" == "0" ]]; then
